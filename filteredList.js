@@ -19,5 +19,3 @@ function selectExtensions(error, data) {
 function matchExtension(name) {
   return name.match(extension);
 }
-
-
